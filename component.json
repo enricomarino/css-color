@@ -1,0 +1,8 @@
+{
+  "name": "css-color",
+  "repo": "enricomarino/css-color",
+  "version": "0.0.1",
+  "styles": ["style.css"],
+  "author": "Enrico Marino",
+  "license": "MIT"
+}
