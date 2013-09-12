@@ -9,3 +9,10 @@
 
 .color-black { color: black; }
 .color-white { color: white; }
+
+.bgcolor-success { background-color: #47a447; }
+.bgcolor-info { background-color: #428bca; }
+.bgcolor-warning { background-color: #f0ad4e; }
+.bgcolor-danger { background-color: #d9534f; }
+.bgcolor-black { background-color: black; }
+.bgcolor-white { background-color: white; }
